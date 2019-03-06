@@ -1,0 +1,41 @@
+[
+	{
+		"Id": 1,
+		"Navn":"CD players"
+	},
+
+	{
+		"Id":2,
+		"Navn":"DVD players"
+	},
+
+	{
+		"Id":3,
+		"Navn":"Poweramps"
+	},
+
+	{
+		"Id":4,
+		"Navn":"Preamps"
+	},
+
+	{
+		"Id":5,
+		"Navn":"Speakers"
+	},
+
+	{
+		"Id":6,
+		"Navn":"Integrated amps"
+	},
+
+	{
+		"Id":7,
+		"Navn":"Turntables"
+	},
+
+	{
+		"Id":8,
+		"Navn":"Tube amps"
+	}
+]

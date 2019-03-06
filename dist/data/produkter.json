@@ -1,0 +1,66 @@
+[
+	{
+		"Id": 1,
+		"Navn": "Greek Classic CD player",
+		"KategoriID": 1,
+		"Pris": 340,
+		"Beskrivelse": "En af de fede"
+	},
+
+	{
+		"Id": 2,
+		"Navn": "Greek Destiny CD player",
+		"KategoriID": 1,
+		"Pris": 560,
+		"Beskrivelse": "Rigtig fed"
+	},
+
+	{
+		"Id": 3,
+		"Navn": "Greek Evo CD player",
+		"KategoriID": 1,
+		"Pris": 200,
+		"Beskrivelse": "Federe end de fleste"
+	},
+
+	{
+		"Id": 4,
+		"Navn": "EXP 2010s CD player",
+		"KategoriID": 1,
+		"Pris": 200,
+		"Beskrivelse": "Rigtig sjov CD afspiller"
+	},
+
+	{
+		"Id": 5,
+		"Navn": "Greek classic DVD player",
+		"KategoriID": 2,
+		"Pris": 400,
+		"Beskrivelse": "Rigtig sjov DVD afspiller"
+	},
+
+	{
+		"Id": 6,
+		"Navn": "Exposure 2010s DVD player",
+		"KategoriID": 2,
+		"Pris": 600,
+		"Beskrivelse": "Få den bedste DVD oplevelse"
+	},
+
+	{
+		"Id": 7,
+		"Navn": "Parasound d200 DVD player",
+		"KategoriID": 2,
+		"Pris": 750,
+		"Beskrivelse": "Rigtig god CD afspiller"
+	},
+
+	{
+		"Id": 8,
+		"Navn": "Parasound Halo D3 DVD player",
+		"KategoriID": 2,
+		"Pris": 800,
+		"Beskrivelse": "En af de bedste på markedet"
+	}
+
+]
